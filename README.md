@@ -6,5 +6,9 @@
 - ღ Actualmente estudio Ingeniería en Sistemas 💻⌨
 - ღ Lenguajes de Programación: C#, SQL 📚
 - ღ Programas que manejo: Visual Studio, VS Code, SQL Server ⌨
-- ღ Me gusta programar con interfaces gráficas y jugar con las opciones 🎨
+- ღ Me gusta programar con interfaces gráficas 🎨
+- ღ ¿Pasatiempos? Dibujar, ver películas y escuchar música 🎶📝
+
+### ♡ ---------------------------- ♡
+
 
