@@ -7,9 +7,9 @@
 - ღ Lenguajes de Programación: C#, SQL 📚
 - ღ Programas que manejo: Visual Studio, VS Code, SQL Server, MySQL ⌨
 - ღ Lenguajes que manejo: C#, SQL 🖥
-- ღ Me gusta programar con interfaces gráficas 🎨
+- ღ Me gusta programar con interfaces gráficas y diseñarlas de vez en cuando 🎨
 - ღ ¿Pasatiempos? Dibujar, ver películas y escuchar música 🎶📝
-- ღ Ahorita me encuentro aprendiendo C++ ☆⌒(> _ <)
+- ღ Ahorita me encuentro aprendiendo C++ y ensamblador para ARM ☆⌒(> _ <)
 
 ### ♡ ---------------------------- ♡
 
