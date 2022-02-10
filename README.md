@@ -14,7 +14,7 @@
 ### ♡ ---------------------------- ♡
 
 ### 𝓗𝓸𝓻𝓪𝓻𝓲𝓸 𝓭𝓮 𝓒𝓵𝓪𝓼𝓮𝓼
-✶★  🎀 𝕊𝕖𝕞𝕖𝕤𝕥𝕣𝕖 𝔽𝕖𝕓𝕣𝕖𝕣𝕠-𝕁𝕦𝕟𝕚𝕠 𝟚𝟘𝟚𝟚 🎀  ★✶
+##### ✶★  🎀 𝕊𝕖𝕞𝕖𝕤𝕥𝕣𝕖 𝔽𝕖𝕓𝕣𝕖𝕣𝕠-𝕁𝕦𝕟𝕚𝕠 𝟚𝟘𝟚𝟚 🎀  ★✶
 
 |   Hora  |               Lunes               |               Martes              |             Miércoles             |               Jueves              |             Viernes             |
 |:-------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:-------------------------------:|
@@ -24,3 +24,5 @@
 | 4:00 pm |             Simulación            |             Simulación            |             Simulación            |             Simulación            |            Simulación           |
 | 5:00 pm |       Sistemas Programables       |       Sistemas Programables       |       Sistemas Programables       |       Sistemas Programables       |             *******             |
 | 6:00 pm |  Administración de Base de Datos  |  Administración de Base de Datos  |  Administración de Base de Datos  |  Administración de Base de Datos  | Administración de Base de Datos |
+
+### ♡ ---------------------------- ♡
