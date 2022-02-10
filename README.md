@@ -3,24 +3,24 @@
 ![](https://i.imgur.com/9rHqiB3.png)
 
 ### 💮 Ｓｏｂｒｅ  ｍｉ 💮
-- ღ Actualmente estudio Ingeniería en Sistemas en el ITT 💻⌨
+- ღ Actualmente estudio Ingeniería en Sistemas en el ITT (Octavo semestre) 💻⌨
 - ღ Lenguajes de Programación: C#, SQL 📚
 - ღ Programas que manejo: Visual Studio, VS Code, SQL Server, MySQL ⌨
-- ღ Lenguajes que manejo: C#, SQL 🖥
+- ღ Lenguajes que manejo: C#, SQL, C++ 🖥
 - ღ Me gusta programar con interfaces gráficas y diseñarlas de vez en cuando 🎨
-- ღ ¿Pasatiempos? Dibujar, ver películas y escuchar música 🎶📝
-- ღ Ahorita me encuentro aprendiendo C++ y ensamblador para ARM ☆⌒(> _ <)
+- ღ También dibujo de manera digital y tengo nociones básicas de Photoshop 📝
+- ღ Pasatiempos... Dibujar, leer, jugar videojuegos y escuchar música 🎶
 
 ### ♡ ---------------------------- ♡
 
 ### 𝓗𝓸𝓻𝓪𝓻𝓲𝓸 𝓭𝓮 𝓒𝓵𝓪𝓼𝓮𝓼
+✶★  🎀 𝕊𝕖𝕞𝕖𝕤𝕥𝕣𝕖 𝔽𝕖𝕓𝕣𝕖𝕣𝕠-𝕁𝕦𝕟𝕚𝕠 𝟚𝟘𝟚𝟚 🎀  ★✶
 
-|   Hora   |                 Lunes                 |                 Martes                | Miércoles                             | Jueves                                | Viernes    |
-|:--------:|:-------------------------------------:|:-------------------------------------:|---------------------------------------|---------------------------------------|------------|
-| 11:00 am |               Simulación              |               Simulación              |               Simulación              |               Simulación              | Simulación |
-| 12:00 pm |                 ******                |                *******                |                *******                |                *******                |   *******  |
-|  1:00 pm |        Taller de  Investigación       |        Taller de Investigación        |        Taller de Investigación        |        Taller de Investigación        |   *******  |
-|  2:00 pm |         Lenguajes de Interfaz         |         Lenguajes de Interfaz         |         Lenguajes de Interfaz         |         Lenguajes de Interfaz         |   *******  |
-| 3:00 pm  |    Programación lógica y funcional    |    Programación lógica y funcional    |    Programación lógica y funcional    |    Programación lógica y funcional    |   *******  |
-| 4:00 pm  |     Taller de Sistemas Operativos     |     Taller de Sistemas Operativos     |     Taller de Sistemas Operativos     |     Taller de Sistemas Operativos     |   *******  |
-| 5:00 pm  | Fundamentos de Ingeniería de Software | Fundamentos de Ingeniería de Software | Fundamentos de Ingeniería de Software | Fundamentos de Ingeniería de Software |   *******  |
+|   Hora  |               Lunes               |               Martes              |             Miércoles             |               Jueves              |             Viernes             |
+|:-------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:-------------------------------:|
+| 1:00 pm |       Ingeniería de Software      |       Ingeniería de Software      |       Ingeniería de Software      |       Ingeniería de Software      |      Ingeniería de Software     |
+| 2:00 pm | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones |             *******             |
+| 3:00 pm |              *******              |              *******              |              *******              |              *******              |             *******             |
+| 4:00 pm |             Simulación            |             Simulación            |             Simulación            |             Simulación            |            Simulación           |
+| 5:00 pm |       Sistemas Programables       |       Sistemas Programables       |       Sistemas Programables       |       Sistemas Programables       |             *******             |
+| 6:00 pm |  Administración de Base de Datos  |  Administración de Base de Datos  |  Administración de Base de Datos  |  Administración de Base de Datos  | Administración de Base de Datos |
