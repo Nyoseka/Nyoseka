@@ -6,7 +6,8 @@
 - ღ Actualmente estudio Ingeniería en Sistemas en el ITT (Octavo semestre) 💻⌨
 - ღ Lenguajes de Programación: C#, SQL 📚
 - ღ Programas que manejo: Visual Studio, VS Code, SQL Server, MySQL ⌨
-- ღ Lenguajes que manejo: C#, SQL, C++ 🖥
+- ღ Lenguajes que manejo: C#, C++, SQL 🖥
+- ღ Actualmente estoy aprendiendo Python 🐍
 - ღ Me gusta programar con interfaces gráficas y diseñarlas de vez en cuando 🎨
 - ღ También dibujo de manera digital y tengo nociones básicas de Photoshop 📝
 - ღ Pasatiempos... Dibujar, leer, jugar videojuegos y escuchar música 🎶
